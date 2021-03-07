@@ -8,6 +8,10 @@ Syntax highlighted code block
 
 # Header 1
 About Me
+
+Projeto desenvolvido em Angular com o intuito de falar um pouco mais sobre mim :).
+
+
 ## Header 2
 ### Header 3
 
