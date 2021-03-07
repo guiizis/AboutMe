@@ -1,6 +1,6 @@
 # About Me
 
-Projeto que tem o intuito de mostrar algumas coisas a respeito de mim msm :), foi  desenvolvido em Angular, framework disponibilizado pelo Gooogle.
+Projeto que tem o intuito de mostrar algumas coisas a respeito de mim msm :), foi  desenvolvido em Angular, framework disponibilizado pelo Google.
 
 
 ## Motivação
@@ -14,5 +14,5 @@ Projeto que tem o intuito de mostrar algumas coisas a respeito de mim msm :), fo
 * Angular
 * TypeScript
 * JS
-* Html
-* Css
+* HTML
+* CSS
