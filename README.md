@@ -11,8 +11,8 @@ Projeto que tem o intuito de mostrar algumas coisas a respeito de mim msm :), fo
  
 ## Tecnologias
 
-*Angular
-*TypeScript
-*JS
-*Html
-*Css
+* Angular
+* TypeScript
+* JS
+* Html
+* Css
